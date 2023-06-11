@@ -1,5 +1,5 @@
 # I simple todo, built in code ignighter 4
-
+![](/public/assets/1.png "screenshot")
 Run it on your mechine;
 - clone the repo,
 - config the database inside `app/Config/Database.php`
